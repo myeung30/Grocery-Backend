@@ -66,7 +66,7 @@ function initial() {
 
 var corsOptions = {
   //origin: ["http://localhost:8081"],
-  origin: ["https://group2grocery.netlify.app/"],
+  origin: ["https://group2grocery.netlify.app"],
   credentials: true,
 };
 
